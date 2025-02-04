@@ -1,3 +1,4 @@
+package Learn_Java_1;
 abstract class Animal {
     abstract void sound(); // Abstract method
 
